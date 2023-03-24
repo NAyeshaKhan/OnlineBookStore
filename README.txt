@@ -1,2 +1,4 @@
 # OnlineBookShop
-We'll build a Online Book Shop. Where Peoples are order book according to there choice. In this project we'll Make a Data base where we'll store all the information of Admin books and users and book order history.
+People can search & order books according to their choice, and order histroy will be saved into database.
+Original repository: https://github.com/Sharif03/OnlineBookShop
+
